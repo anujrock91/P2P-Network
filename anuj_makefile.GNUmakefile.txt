@@ -1,0 +1,2 @@
+all:
+	gcc -w -g network.h anujrast_proj1.c helperFunctions.c Anuj_Server.c Anuj_Client.c -o Anuj
